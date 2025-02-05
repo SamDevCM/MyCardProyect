@@ -1,0 +1,36 @@
+# Ignorar archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de entornos de desarrollo
+.vscode/
+.idea/
+
+# Ignorar dependencias de Node.js (si usas npm o yarn)
+node_modules/
+
+# Ignorar archivos de compilación o generados automáticamente
+dist/
+build/
+*.min.js
+*.min.css
+
+# Ignorar archivos de entorno o sensibles
+.env
+.env.local
+.secret
+
+# Ignorar archivos de caché
+.cache/
+
+# Ignorar archivos de depuración
+*.log
+debug.log
+
+# Ignorar archivos temporales
+*.tmp
+*.temp
+
+# Ignorar archivos de sistema
+*.swp
+*.swo

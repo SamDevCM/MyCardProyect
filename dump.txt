@@ -1,0 +1,19 @@
+<section id="projects">
+        <div class="container">
+            <h2>Proyectos Destacados</h2>
+            <div class="project-item">
+                <h3>Sistema de Gestión de Inventarios</h3>
+                <p>
+                    Desarrollé un sistema de gestión de inventarios utilizando C# y MySQL. 
+                    El sistema permite a los usuarios gestionar productos, realizar seguimiento de stock y generar informes.
+                </p>
+            </div>
+            <div class="project-item">
+                <h3>Plataforma de E-learning</h3>
+                <p>
+                    Creé una plataforma de e-learning utilizando JavaScript, HTML5 y CSS3. 
+                    La plataforma incluye funcionalidades como autenticación de usuarios, cursos interactivos y seguimiento de progreso.
+                </p>
+            </div>
+        </div>
+    </section>
